@@ -1,2 +1,3 @@
-# 안녕하세요
-저는 웹 사이트 개발을 공부 중인 사람입니다 !
+# Hello, I am learning website development.
+Please enjoy the fact that I am not good at English, so I use a translator.
+I haven't decorated it yet, so it's flat, but please keep an eye on it!
