@@ -29,4 +29,5 @@ I haven't decorated it yet, so it's flat, but please keep an eye on it!
 [![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=toritomodachi&layout=donut)](https://github.com/anuraghazra/github-readme-stats)
 # Contact
 ![Gmail](https://img.shields.io/badge/Gmail-D14836?style=for-the-badge&logo=gmail&logoColor=white) : tancheonn@gmail.com
+
 ![Discord](https://img.shields.io/badge/Discord-%235865F2.svg?style=for-the-badge&logo=discord&logoColor=white) : 팽이#2005
