@@ -1,8 +1,8 @@
 # ***Hello, I am learning website development.***
 ***Please enjoy the fact that I am not good at English, so I use a translator.
 I haven't decorated it yet, so it's flat, but please keep an eye on it!***
-# ***My story***
-***I'm 19 years old studying websites and I'm still lacking things I can handle, but I'm going to study harder. I am studying hard because I am interested in server and other website design I want to continue learning English and have a fun conversation with other website developers If you see this, feel free to contact me***
+<!-- # ***My story***
+***I'm 19 years old studying websites and I'm still lacking things I can handle, but I'm going to study harder. I am studying hard because I am interested in server and other website design I want to continue learning English and have a fun conversation with other website developers If you see this, feel free to contact me*** -->
 # ***Can Use***
 
 ![HTML5](https://img.shields.io/badge/html5-%23E34F26.svg?style=for-the-badge&logo=html5&logoColor=white)
