@@ -26,7 +26,7 @@ I haven't decorated it yet, so it's flat, but please keep an eye on it!***
 ![Bootstrap](https://img.shields.io/badge/bootstrap-%238511FA.svg?style=for-the-badge&logo=bootstrap&logoColor=white) 
 ![Nodemon](https://img.shields.io/badge/NODEMON-%23323330.svg?style=for-the-badge&logo=nodemon&logoColor=%BBDEAD)
 ![Webpack](https://img.shields.io/badge/webpack-%238DD6F9.svg?style=for-the-badge&logo=webpack&logoColor=black)
-# ***My state & most Language***
+# ***most Language***
 [![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=toritomodachi&layout=donut)](https://github.com/anuraghazra/github-readme-stats)
 # ***Contact***
 ![Gmail](https://img.shields.io/badge/Gmail-D14836?style=for-the-badge&logo=gmail&logoColor=white) : tancheonn@gmail.com
